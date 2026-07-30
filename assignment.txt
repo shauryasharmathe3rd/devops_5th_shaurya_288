@@ -1,0 +1,11 @@
+Task 1:- Install and configure WSL, JDK, Git and Eclipse
+
+Task 2:- You are a test engineer and you have to make a directory in D Drive named "CRC-DevOps". Now,
+	
+	Sub-Task 1: Make this directory compatible to git remote repository.
+	Sub-Task 2: Configure this local directory to your Github Account.
+	Sub-Taks 3: Create two files:
+		a: assignment.txt
+		b: commands-list.txt
+	Sub Task 4: Add all the tasks discussed in the assignment.txt and all the commands discussed in the class in the command-list.txt
+
