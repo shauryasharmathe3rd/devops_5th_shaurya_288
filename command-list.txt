@@ -1,0 +1,23 @@
+cd
+sudo
+nano
+bash
+touch
+cat
+stat
+pwd
+cp
+mv
+vi
+nano
+ls
+mkdir
+rmdir
+rm
+git init
+git add
+git config
+git status
+git clone
+git commit
+git push
